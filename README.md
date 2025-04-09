@@ -5,7 +5,7 @@ demonstrate a simple and cool way to monitor the docker containers running on yo
 We assume of course, that you run your containers with the option “—restart on-failure“ or “—restart unless-stopped” as needed .. but just in case.
 This project should demonstrate a fun and simple way to utilize bash and python to monitor the running containers.
 
-You may also start / restaert a container should it stop.
+You may also start / restart a container should it stop.
 
 
 You should make the following changes:
