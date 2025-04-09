@@ -13,5 +13,6 @@ You should make the following changes:
 2. change the telegram-token to a real one
 3. change the telegram-chat-id to a real one
 
+You can now add a crontab to run the "monitor.sh" at a desired interval automatically.
 
 Good luck !
