@@ -8,3 +8,10 @@ This project should demonstrate a fun and simple way to utilize bash and python 
 You may also start / restaert a container should it stop.
 
 
+You should make the following changes:
+1. add real docker images names into the file "docker_images"
+2. change the telegram-token to a real one
+3. change the telegram-chat-id to a real one
+
+
+Good luck !
